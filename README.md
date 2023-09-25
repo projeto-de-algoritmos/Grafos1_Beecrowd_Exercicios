@@ -15,10 +15,12 @@ O projeto consiste na resolução de exercícios da plataforma Beecrowd sobre o 
 
 ## Screenshots
 ### Exercício 1
-![Exercicio 1](./img/grafoEx1.png)
+![Exercicio 1](./enunciados/grafoEx1Enunciado.png)
+![Exercicio 1](./enunciados/grafoEx1.png)
 
 ### Exercício 2
-![Exercicio 2](./img/grafoEx2.png)
+![Exercicio 2](./enunciados/grafoEx2Enunciado.png)
+![Exercicio 2](./enunciados/grafoEx2.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
