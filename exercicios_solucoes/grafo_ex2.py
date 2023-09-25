@@ -29,6 +29,6 @@ while True:
    try:
       inicio, fim = input().split()
       movimentos_cavalo = bfs(inicio, fim)
-      print(f"To get from {inicio} to {fim} takes {movimentos_cavalo} knight movimentos_cavalo.")
+      print(f"To get from {inicio} to {fim} takes {movimentos_cavalo} knight moves.")
    except EOFError:
       break
