@@ -11,16 +11,28 @@ Tema:
 | 14/0155350  |  Matheus Filipe Faria Alves de Andrade |
 
 ## Sobre 
-O projeto consiste na resolução de exercícios da plataforma Beecrowd sobre o conteúdo Grafos 1 da matéria de Projeto de Algoritmos. 
+O projeto consiste na resolução de 4 exercícios sobre o conteúdo Grafos 1 da matéria de Projeto de Algoritmos. 
 
-## Screenshots
+#### Exercício 1: https://www.beecrowd.com.br/judge/pt/problems/view/1082
+
+#### Exercício 2: https://www.beecrowd.com.br/judge/pt/problems/view/1100
+
+#### Exercício 3: https://www.hackerrank.com/challenges/the-quickest-way-up/problem#
+
+#### Exercício 4: https://www.hackerrank.com/challenges/torque-and-development/problem
+
+## Soluções/Submissões
 ### Exercício 1
-![Exercicio 1](./enunciados/grafoEx1Enunciado.png)
 ![Exercicio 1](./enunciados/grafoEx1.png)
 
 ### Exercício 2
-![Exercicio 2](./enunciados/grafoEx2Enunciado.png)
 ![Exercicio 2](./enunciados/grafoEx2.png)
+
+### Exercício 3
+![Exercicio 1](./enunciados/grafoEx3.png)
+
+### Exercício 4
+![Exercicio 2](./enunciados/grafoEx4.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -28,7 +40,11 @@ O projeto consiste na resolução de exercícios da plataforma Beecrowd sobre o 
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-python3 <nome_do_arquivo> 
+python3 <nome_do_arquivo.py> 
+
+## Apresentação
+
+Link da apresentação: https://youtu.be/pEoktQubZ2E
 
 
 
