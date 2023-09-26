@@ -3,7 +3,7 @@ from collections import deque
 dx = [-1, -2, -2, -1, 1, 2, 2, 1]
 dy = [-2, -1, 1, 2, 2, 1, -1, -2]
 
-def bfs(inicio, fim):
+def cavalo_movimentos(inicio, fim):
    x1, y1 = ord(inicio[0]) - ord('a') + 1, int(inicio[1])
    x2, y2 = ord(fim[0]) - ord('a') + 1, int(fim[1])
 
@@ -11,7 +11,7 @@ def bfs(inicio, fim):
    fila = deque([(x1, y1, 0)])
 
    while fila:
-      x, y, movimentos_cavalo = fila.popleft()
+      x, y, movimentos_cavalo = fila.popleft() 
 
       if x == x2 and y == y2:
          return movimentos_cavalo
@@ -28,7 +28,7 @@ def valido_no_tabuleiro(x, y):
 while True:
    try:
       inicio, fim = input().split()
-      movimentos_cavalo = bfs(inicio, fim)
+      movimentos_cavalo = cavalo_movimentos(inicio, fim)
       print(f"To get from {inicio} to {fim} takes {movimentos_cavalo} knight moves.")
    except EOFError:
       break
