@@ -44,7 +44,7 @@ python3 <nome_do_arquivo.py>
 
 ## Apresentação
 
-Link da apresentação: https://youtu.be/pEoktQubZ2E
+A arquivo da apresentação se encontra nesse repositório.
 
 
 
