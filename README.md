@@ -44,7 +44,7 @@ python3 <nome_do_arquivo.py>
 
 ## Apresentação
 
-A arquivo da apresentação se encontra nesse repositório.
+A arquivo da apresentação se encontra nesse repositório, porém a qualidade está reduzida por um motivo de limitação no tamanho do arquivo permitido para envio mas pode ser visualizado também em uma qualidade melhor através do link: https://youtu.be/pEoktQubZ2E.
 
 
 
